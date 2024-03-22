@@ -1,8 +1,6 @@
-:wink: Meu nome é:Janice sanatana de lima
+:wink:Janice santana de lima
 
-:heart_eyes: Tenho 15 anos 
-
-:relaxed: Estou estudando githug
+:heart_eyes: Tenho 17 anos 
 
 :innocent: Estou solteira
 
